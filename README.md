@@ -12,7 +12,7 @@
 
 ## ✅ Project Goals:
 - Analyze and visualize historical sales data.
-- Predict future sales using **Machine Learning (Linear Regression)**.
+- Predict future sales using Machine Learning (Linear Regression).
 
 ---
 
