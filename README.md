@@ -34,11 +34,11 @@
 
 ---
 
-## ✅ Model Performance: 
--Mean Absolute Error (MAE):1490.05
--Mean Squared Error (MSE) :3,870,879.67 
--Root Mean Squared Error (RMSE):1967.46 
--R² Score :0.0028 (near zero)
+## ✅ Model Performance
+- Mean Absolute Error (MAE):1490.05
+- Mean Squared Error (MSE) :3,870,879.67 
+- Root Mean Squared Error (RMSE):1967.46 
+- R² Score :0.0028 (near zero)
 
 ---
 
